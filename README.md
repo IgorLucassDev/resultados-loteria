@@ -7,3 +7,5 @@ Projeto simples para verificar os numeros sorteados da Mega-Sena
 * API not working
 
 ### Preview
+
+https://igorlucassdev.github.io/resultados-loteria/
